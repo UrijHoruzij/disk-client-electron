@@ -49,7 +49,7 @@
     "react-scripts": "4.0.1",
     "react-window": "^1.8.6",
     "redux": "^4.0.5",
-    "redux-thunk": "^2.3.0",
+    "redux-thunk": "^2.4.2",
     "request-jwt": "^2.0.0",
     "slicer-file": "^2.0.0",
     "styled-components": "^5.2.1",
